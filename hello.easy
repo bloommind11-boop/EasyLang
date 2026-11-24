@@ -1,0 +1,54 @@
+# Welcome to EasyLang
+
+Show Welcome to my programming language!
+
+Make age = 18
+
+If age is greater than 15
+    Show You are eligible
+Else
+    Show You are not eligible
+End
+
+Make first = 10
+Make second = 5
+
+Add first and second into total
+Show Addition result:
+Show total
+
+Subtract second from first into difference
+Show Subtraction result:
+Show difference
+
+Multiply first and second into product
+Show Multiplication result:
+Show product
+
+Divide first and second into quotient
+Show Division result:
+Show quotient
+
+Repeat 3 times
+    Show EasyLang is simple!
+End
+
+Make number = 1
+
+While number is less than 4
+    Show number
+    Add number and 1 into number
+End
+
+Create function introduce with name and age
+    Show Hello, name!
+    Show Age: age
+End
+
+Call introduce with Alex and 18
+Call introduce with Priya and 20
+
+Ask What is your name? and store it as username
+Show Welcome to EasyLang, username!
+
+Show Program completed successfully!
